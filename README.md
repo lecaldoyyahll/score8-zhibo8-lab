@@ -1,2 +1,14 @@
 # score8-zhibo8-lab
-HTML page archive and documentation
+
+HTML 资料页存档
+
+本项目用于存档页面文件，便于长期保留和检查。
+
+## 文件记录
+
+- 根目录中的 HTML 文件为发布结果
+- README 用于说明当前仓库用途
+
+## 管理说明
+
+本仓库适合保存多个独立页面，不依赖额外构建流程。
